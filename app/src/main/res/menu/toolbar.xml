@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/backup"
+        android:icon="@drawable/test"
+        android:title="Bac"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/test"
+        android:title="Del"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/settings"
+
+        android:title="Settings"
+        app:showAsAction="never"/>
+
+</menu>
